@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Whitney Shisia
 
-### Backend Software Developer | Python Developer | Software Engineering Student @ Moringa School
+### Software Developer | Python Developer | Software Engineering Student @ Moringa School
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Backend+Software+Developer;Python+%7C+FastAPI+%7C+Flask;React+%7C+Next.js+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New" alt="Typing Animation" />
 
