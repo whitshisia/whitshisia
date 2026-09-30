@@ -94,30 +94,6 @@ A mobile application helping parents monitor baby activities and share updates s
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=whitshisia&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitshisia&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=whitshisia&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Whitney's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whitshisia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=whitshisia&theme=tokyonight&no-frame=true&margin-w=15)
